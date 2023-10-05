@@ -10,7 +10,7 @@ The Store is a fictional e-comerce created by me as an exercise.
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/daraperini/vitrine-dev/main/the%20store.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
